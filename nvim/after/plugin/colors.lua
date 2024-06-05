@@ -1,4 +1,4 @@
- vim.cmd.colorscheme("vim")
+ vim.cmd.colorscheme("default")
  -- function ColorMyPencils(color)
  --     color = color or "catppuccin-mocha"
  --     vim.cmd.colorscheme(color)
