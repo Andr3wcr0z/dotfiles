@@ -12,4 +12,4 @@
 - **Vim also serves as a code editor for me. The only difference being that I only use nvim for when I'm going to be quick. BTW this README is being edited in Vim**
 ---
 # Screenshots of my setup in i3
-[[screenshot1.png]]
+![[screenshot1.png]]
