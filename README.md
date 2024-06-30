@@ -13,4 +13,4 @@
 ---
 # Screenshots of my setup in i3 (not necessarily updated)
 ![screenshot1](screenshot1.png)
-### ** I no longer use alacritty (I use kitty nowadays, and yes this is someone else's config for kitty)
+### I no longer use alacritty (I use kitty nowadays, and yes this is someone else's config for kitty)
