@@ -51,7 +51,7 @@
       '(("d" "default" plain "%?"
          :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org"
                             "#+title: ${title}\n")
-         :unnarrowed t)))
+         :unnarrowed t)
 
       ("P" "PHP" plain
          "%?"
