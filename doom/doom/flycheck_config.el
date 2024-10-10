@@ -53,31 +53,10 @@
                             "#+title: ${title}\n")
          :unnarrowed t)))
 
-setq org-roam-capture-templates
-      '(("P" "PHP" plain
-         "%?"
-         :if-new (file+head "Programming/php/${slug}.org"
-                            "#+title: ${title}\n#+date: %U\n")
-         :unnarrowed t)
-
-setq org-roam-capture-templates
-      '(("j" "Journal" plain
-         "%?"
-         :if-new (file+head "Journal/${slug}.org"
-                            "#+title: ${title}\n#+date: %U\n* Journal")
-         :unnarrowed t)
-
-setq org-roam-capture-templates
-      '(("g" "Genki Note" plain
-         "%?"
-         :if-new (file+head "reference/Genki/${slug}.org"
-                            "#+title: ${title}\n#+date: %U\n")
-         :unnarrowed t)
-
 (setq org-roam-capture-templates
-      '(("p" "Programming" plain
+      '(("p" "Programming Languages" plain
          "%?"
-         :if-new (file+head "Programming/${slug}.org"
+         :if-new (file+head "reference/Programming/${slug}.org"
                             "#+title: ${title}\n#+date: %U\n")
          :unnarrowed t)))
 
