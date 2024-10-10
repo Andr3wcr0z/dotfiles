@@ -20,6 +20,6 @@
 ### Most configurations are the same as they are in linux 
 
 ## Screenshot of my setup in MacOS (not necessarily updated)
-![screenshot2](macos-screen.png)
+![screenshot2](mac-screen.png)
 
 ### I currently have a setup of two computers, A 15" 2014 Macbook Pro as my primary, and an Optiplex 745 as my secondary PC 
