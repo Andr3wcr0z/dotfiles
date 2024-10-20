@@ -25,4 +25,4 @@
 
 ### My current main terminal is Kitty
 
-### I currently have a setup of two computers, A 15" 2014 Macbook Pro as my primary, and an Optiplex 745 as my secondary PC 
+### I currently have a setup of two computers, A 15" 2014 Macbook Pro as my primary, and an Optiplex 745 as my secondary PC (Use Macbook more often than the Optiplex, the PC is too old for most tasks) 
